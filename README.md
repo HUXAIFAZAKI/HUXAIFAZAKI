@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Huzaifa</h1>
+<h1 align="center">Hi <img src = https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif>, I'm Huzaifa</h1>
 <h3 align="center">A passionated coder from Pakistan</h3>
-
+<br>
 - 🔭 I’m currently working on **Typescript, JS and Python!**
 
 - 🌱 I’m currently learning **AI, Web 3.0, Metaverse at Governor House**
