@@ -23,3 +23,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huxaifazaki&show_icons=true&locale=en" alt="huxaifazaki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huxaifazaki&" alt="huxaifazaki" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huxaifazaki&bg_color=ffffff&color=000000&line=00ff2a&point=00eeff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3 align="left">Top Repositories:</h3>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HUXAIFAZAKI&repo=GHAI-PROJECTS)](https://github.com/HUXAIFAZAKI/GHAI-Projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HUXAIFAZAKI&repo=SirShahmeerAssignments)](https://github.com/HUXAIFAZAKI/SirShahmeerAssignments)
