@@ -1,35 +1,74 @@
-<h1 align="center">Hi <img src = https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif>, I'm Huzaifa</h1>
-<h3 align="center">A passionated coder from Pakistan</h3>
+<h1 align="center">
+  <span class="wave"><img src = https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif></span> Hi, I'm Huzaifa
+</h1>
 
-- 🔭 I’m currently working on **Typescript, JS and Python!**
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Python+Expert;AI+Enthusiast;Full+Stack+Developer" />
+</h3>
 
-- 🌱 I’m currently learning **AI, Web 3.0, Metaverse at Governor House**
-
-- 💬 Ask me about **Technology and Coding**
-
-- 📫 How to reach me **huzaifazaki92@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/fearx666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fearx666" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/punnyplate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="punnyplate" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HUXAIFAZAKI&color=blue" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,c#&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ts,py,ps,figma,pr&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal,robloxstudio&theme=light)](https://skillicons.dev)
+## 🔥 About Me  
+- 🔭 I’m currently working on **Python & Next.js**  
+- 🌱 I’m learning **Machine Learning, Data Science & Agentic AI**  
+- 💬 Ask me about **JavaScript, TypeScript, AI & Agentic-AI**
+- 📫 How to reach me **Huzaifazaki92@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huxaifazaki&show_icons=true&locale=en&layout=compact" alt="huxaifazaki" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huxaifazaki&show_icons=true&locale=en" alt="huxaifazaki" /></p>
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HUXAIFAZAKI&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huxaifazaki&" alt="huxaifazaki" /></p>
+## 🚀 My Projects  
+🛍️ [**Shop.co - E-Commerce Website**](https://hackathon3-giaic.vercel.app/)  
+A stylish and responsive e-commerce store for Fashion cloths.  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huxaifazaki&bg_color=ffffff&color=000000&line=00ff2a&point=00eeff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+📝 [**InvoiceGenerator - A Simple Invoice Generator**](https://invoicegenerator-huxaifa.streamlit.app/)  
+An interactive invoice generator where you can create invoices in no time.  
 
-<h3 align="left">Top Repositories:</h3>
+---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HUXAIFAZAKI&repo=GHAI-PROJECTS)](https://github.com/HUXAIFAZAKI/GHAI-Projects)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HUXAIFAZAKI&repo=SirShahmeerAssignments)](https://github.com/HUXAIFAZAKI/SirShahmeerAssignments)
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HUXAIFAZAKI&show_icons=true&theme=algolia&cache_seconds=86400" alt="Subhan's GitHub Stats" />
+</p>
+
+### 🔥 Streak Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HUXAIFAZAKI&theme=algolia" alt="GitHub Streak Stats" />
+</p>
+
+### 💡 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUXAIFAZAKI&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
+
+---
+
+## 💻 Tech Stack  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## 🌍 Let's Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/huzaifazaki/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300px">
+</p>
